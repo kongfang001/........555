@@ -1,4 +1,5 @@
 {
+  "homepage":"https://kongfang001.github.io/........555/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -7,8 +8,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^4.2.4",
-    "homepage":"https://github.com/kongfang001/........555.git"
+    "web-vitals": "^4.2.4"
+    
   },
   "scripts": {
     "start": "react-scripts start",
